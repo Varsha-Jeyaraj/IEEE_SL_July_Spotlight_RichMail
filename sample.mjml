@@ -330,7 +330,18 @@
         <br> <br>
         Celebrated in June, still vibing in July because our family deserves the world's attention!
         </mj-text>
+
+        <mj-button 
+          href="https://varsha-jeyaraj.github.io/IEEE_SL_July_Spotlight_RichMail/familyGetTogether.html" 
+          background-color="#0b15a5"
+          align="left"
+          padding-top="15px"
+          border-radius="5px">
+          Read More
+        </mj-button>
       </mj-column>
+
+      
       
       <mj-column width="40%">
         <mj-image 
