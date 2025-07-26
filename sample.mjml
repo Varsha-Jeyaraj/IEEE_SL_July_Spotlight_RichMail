@@ -11,7 +11,7 @@
 
         <mj-image 
                   width="140px" 
-                  src="logo-transparent-bnw.jpg" 
+                  src="https://raw.githubusercontent.com/Varsha-Jeyaraj/IEEE_SL_July_Spotlight_RichMail/refs/heads/main/Assets/logo-bnw.jpg" 
                   alt="IEEE Sri Lanka Section Logo">
         </mj-image>
         </mj-column>
@@ -197,7 +197,7 @@
       
       <mj-column width="40%">
         <mj-image 
-          src="Flyers\WhatsApp Image 2025-07-22 at 11.44.50 PM.jpeg" 
+          src="https://raw.githubusercontent.com/Varsha-Jeyaraj/IEEE_SL_July_Spotlight_RichMail/refs/heads/main/Assets/EventFlyers/CyberSec.jpeg" 
           alt="CyberSec 5.0 Flyer"
           href="#">
         </mj-image>
@@ -345,7 +345,7 @@
       
       <mj-column width="40%">
         <mj-image 
-          src="Flyers\505974304_1361225225792007_4113139611599749725_n.jpg" 
+          src="https://raw.githubusercontent.com/Varsha-Jeyaraj/IEEE_SL_July_Spotlight_RichMail/refs/heads/main/Assets/EventFlyers/GetTogether.jpg" 
           alt="Family Get-Together Flyer"
           href="#">
         </mj-image>
