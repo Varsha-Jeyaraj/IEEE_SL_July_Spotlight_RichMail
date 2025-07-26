@@ -1,0 +1,399 @@
+<mjml>
+  <mj-head>
+  <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" />
+  <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap" />
+  </mj-head>
+
+  <mj-body>
+
+    <mj-section background-color="#0b15a5" padding="20px 0">
+      <mj-column width="25%">
+
+        <mj-image 
+                  width="140px" 
+                  src="logo-transparent-bnw.jpg" 
+                  alt="IEEE Sri Lanka Section Logo">
+        </mj-image>
+        </mj-column>
+
+        <mj-column width="75%">
+        <mj-text 
+                 align="center" 
+                 font-size="28px" 
+                 color="#FFFFFF" 
+                 font-family="Arial, sans-serif"
+                 font-weight="bold"
+                 font-style="italic"
+                 padding-top="10px">
+          Monthly Spotlight - July 2025
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    
+        <mj-section>
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link 
+            href="#events" 
+            font-size="18px" 
+            color="#0b15a5" 
+            text-decoration="underline" 
+            text-transform="none"
+            padding="15px 8px">
+            Events
+          </mj-navbar-link>
+
+          <mj-navbar-link 
+            href="#contests" 
+            font-size="18px" 
+            color="#0b15a5" 
+            text-decoration="underline" 
+            text-transform="none"
+            padding="15px 8px">
+            Contests
+          </mj-navbar-link>
+
+          <mj-navbar-link 
+            href="#grants" 
+            font-size="18px" 
+            color="#0b15a5" 
+            text-decoration="underline" 
+            text-transform="none"
+            padding="15px 8px">
+            Grants
+          </mj-navbar-link>
+
+          <mj-navbar-link 
+            href="#awards" 
+            font-size="18px" 
+            color="#0b15a5" 
+            text-decoration="underline" 
+            text-transform="none"
+            padding="15px 8px">
+            Awards
+          </mj-navbar-link>
+
+          <mj-navbar-link 
+            href="#conferences" 
+            font-size="18px" 
+            color="#0b15a5" 
+            text-decoration="underline" 
+            text-transform="none"
+            padding="15px 8px">
+            Conferences
+          </mj-navbar-link>
+          
+          <mj-navbar-link 
+            href="#entertainment" 
+            font-size="18px" 
+            color="#0b15a5" 
+            text-decoration="underline" 
+            text-transform="none"
+            padding="15px 8px">
+            Entertainment
+          </mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw><a name="events"></a></mj-raw> 
+    <mj-section padding-bottom="0">
+      <mj-column width="40%">
+        <mj-text 
+          font-size="24px" 
+          font-weight="bold" 
+          color="#0b15a5">
+          Events
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-divider 
+          border-width="4px" 
+          border-color="#0b15a5" 
+          padding="20px 0 0 0">
+        </mj-divider>
+      </mj-column>
+    </mj-section>
+
+    
+    <mj-section>
+      <mj-column>
+        <!-- Event 1-->
+        <mj-text 
+          font-size="18px" 
+          font-weight="bold" 
+          padding-top="15px">
+          IEEE SL Section's monthly Ex-Co meeting
+        </mj-text>
+        <mj-text 
+          font-size="18px" 
+          color="#666666" 
+          padding-bottom="10px">
+          10 July 2025
+        </mj-text>
+        <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <!-- Event 1-->
+        <mj-text 
+          font-size="18px" 
+          font-weight="bold" 
+          padding-top="15px">
+          IEEE SL Section's monthly Ex-Co meeting
+        </mj-text>
+        <mj-text 
+          font-size="18px" 
+          color="#666666" 
+          padding-bottom="10px">
+          10 July 2025
+        </mj-text>
+        <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <!-- Event 1-->
+        <mj-text 
+          font-size="18px" 
+          font-weight="bold" 
+          padding-top="15px">
+          IEEE SL Section's monthly Ex-Co meeting
+        </mj-text>
+        <mj-text 
+          font-size="18px" 
+          color="#666666" 
+          padding-bottom="10px">
+          10 July 2025
+        </mj-text>
+        <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Event 2  -->
+    <mj-section>
+      
+      <mj-column width="60%">
+        <mj-text 
+          font-size="18px" 
+          font-weight="bold"
+          padding-top="10px">
+          CyberSec 5.0 - IEEE CS SL Chapter
+        </mj-text>
+        <mj-text 
+          font-size="18px" 
+          color="#666666" 
+          padding-top="5px">
+          2 July 2025
+        </mj-text>
+        <mj-text font-size="15px" padding-top="10px">
+          A brief description about the session, what attendees learnt, and who the target audience were.
+        </mj-text>
+      </mj-column>
+      
+      <mj-column width="40%">
+        <mj-image 
+          src="Flyers\WhatsApp Image 2025-07-22 at 11.44.50 PM.jpeg" 
+          alt="CyberSec 5.0 Flyer"
+          href="#">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+     
+  <mj-raw><a name="contests"></a></mj-raw> 
+    <mj-section padding-bottom="0">
+      <mj-column width="40%">
+        <mj-text 
+          font-size="24px" 
+          font-weight="bold" 
+          color="#0b15a5">
+          Contests
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-divider 
+          border-width="4px" 
+          border-color="#0b15a5" 
+          padding="20px 0 0 0">
+        </mj-divider>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-raw><a name="grants"></a></mj-raw> 
+    <mj-section padding-bottom="0">
+      <mj-column width="40%">
+        <mj-text 
+          font-size="24px" 
+          font-weight="bold" 
+          color="#0b15a5">
+          Grants
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-divider 
+          border-width="4px" 
+          border-color="#0b15a5" 
+          padding="20px 0 0 0">
+        </mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw><a name="awards"></a></mj-raw> 
+    <mj-section padding-bottom="0">
+      <mj-column width="40%">
+        <mj-text 
+          font-size="24px" 
+          font-weight="bold" 
+          color="#0b15a5">
+          Awards
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-divider 
+          border-width="4px" 
+          border-color="#0b15a5" 
+          padding="20px 0 0 0">
+        </mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw><a name="conferences"></a></mj-raw> 
+    <mj-section padding-bottom="0">
+      <mj-column width="40%">
+        <mj-text 
+          font-size="24px" 
+          font-weight="bold" 
+          color="#0b15a5">
+          Conferences
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-divider 
+          border-width="4px" 
+          border-color="#0b15a5" 
+          padding="20px 0 0 0">
+        </mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw><a name="entertainment"></a></mj-raw> 
+    <mj-section padding-bottom="0">
+      <mj-column width="40%">
+        <mj-text 
+          font-size="24px" 
+          font-weight="bold" 
+          color="#0b15a5">
+          Entertainment
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-divider 
+          border-width="4px" 
+          border-color="#0b15a5" 
+          padding="20px 0 0 0">
+        </mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      
+      <mj-column width="60%">
+        <mj-text 
+          font-size="17px" 
+          font-weight="bold"
+          padding-top="10px"
+          font-family="Montserrat, Arial, sans-serif"
+          align="justify">
+          We Never Forget We're Family 💙 | IEEE SL Section Annual Get-Together 2025
+        </mj-text>
+        <mj-text 
+          font-size="18px" 
+          color="#666666" 
+          padding-top="5px">
+          28 June 2025
+        </mj-text>
+        <mj-text font-size="15px" padding-top="10px" align="justify" font-family="Lato, Arial, sans-serif" >
+          Family isn’t just blood – it’s IEEE too! <br><br>
+          Our 2025 get-together was all about vibes, laughter, and unbreakable bonds. From epic games to hidden talents unleashed, we proved (again) that we’re more than professionals – we’re family.
+        <br> <br>
+        Celebrated in June, still vibing in July because our family deserves the world's attention!
+        </mj-text>
+      </mj-column>
+      
+      <mj-column width="40%">
+        <mj-image 
+          src="Flyers\505974304_1361225225792007_4113139611599749725_n.jpg" 
+          alt="Family Get-Together Flyer"
+          href="#">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    
+
+<!--Footer-->
+    <mj-section background-color="#0b15a5" padding="20px 0">
+      <mj-column>      
+        <mj-social icon-size="30px" align="center">
+          <mj-social-element 
+            name="website" 
+            href="https://ieee.lk/" 
+            src="web-link_3308395.png">
+          </mj-social-element>
+
+          <!-- 2. Facebook -->
+          <mj-social-element 
+            name="facebook" 
+            href="https://www.facebook.com/ieeesrilanka/">
+          </mj-social-element>
+
+          <!-- 3. LinkedIn -->
+          <mj-social-element 
+            name="linkedin" 
+            href="https://www.linkedin.com/company/ieeesrilanka/">
+          </mj-social-element>
+          
+          <!-- 4. Instagram -->
+          <mj-social-element 
+            name="instagram" 
+            href="https://www.instagram.com/ieeesrilanka/"
+            src="instagram.png">
+          </mj-social-element>
+
+          <!-- 5. X  -->
+          <mj-social-element 
+            name="x" 
+            href="https://x.com/ieeesrilanka">
+          </mj-social-element>
+
+          <!-- 6. YouTube -->
+          <mj-social-element 
+            name="youtube" 
+            href="https://www.youtube.com/channel/UCfay_y9i1p9a6S-ADs_6w4w">
+          </mj-social-element>
+         
+        </mj-social>
+
+        <mj-text
+          color="#FFFFFF" 
+          font-family="Arial, sans-serif"
+          align="center">
+          Copyright © IEEE Sri Lanka Section 2025. All rights reserved.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
